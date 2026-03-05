@@ -58,9 +58,6 @@ const Dashboard = ({ handleLogout }) => {
           Manage Leave Requests
         </button>
 
-        <button onClick={handleLogout}>
-          LOGOUT
-        </button>
       </div>
     </div>
   );
